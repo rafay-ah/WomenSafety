@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">WomenSaftey</string>
+    <string name="profile">Profile</string>
+    <string name="call">Call</string>
+    <string name="alaram">Alaram</string>
+    <string name="help_desk">Helpdesk</string>
+    <string name="mute">mute</string>
+    <string name="speaker">speaker</string>
+    <string name="attach">attach</string>
+    <string name="emergency">Emergency</string>
+    <string name="people">People</string>
+    <string name="add_emergengy_contact">Add Emergengy Contact</string>
+    <string name="contact_1">Contact 1</string>
+    <string name="contact_2">Contact 2</string>
+    <string name="contact_3">Contact 3</string>
+    <string name="SendMsg">SendMsg</string>
+</resources>
